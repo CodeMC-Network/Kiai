@@ -1,0 +1,24 @@
+name: Kiai
+version: '${version}'
+main: com.github.albardoo02.Kiai
+api-version: 1.15
+authors: [ albardoo02 ]
+description: 気合を入手
+website: https://github.com/CodeMC-Network/Kiai
+
+commands:
+  kiai:
+    description: kiaiコマンド
+    usage: /<command>
+
+
+permissions:
+  Kiai.*:
+    children:
+      Kiai.help: true
+      Kiai.reload: true
+      Kiai.1: true
+      Kiai.2: true
+      Kiai.3: true
+      Kiai.4: true
+      Kiai.5: true

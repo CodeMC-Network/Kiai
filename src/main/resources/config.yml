@@ -1,0 +1,22 @@
+# Kiai Config Version: 1.0
+
+#カラーコードが使えます
+
+Kiai:
+  help:
+    - 'Kiai Version: 1.0'
+    - 'usage: /kiai'
+  reload:
+    - 'Kiaiでリロードしました'
+  error:
+    - '&cあなたには権限がありません'
+  msg1:
+    - 'あ'
+  msg2:
+    - 'い'
+  msg3:
+    - 'う'
+  msg4:
+    - 'え'
+  msg5:
+    - 'お'
